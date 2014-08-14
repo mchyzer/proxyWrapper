@@ -17,3 +17,8 @@
   <param-name>usernameFilterForTestingPassword</param-name>
   <param-value>abc123XYZ789</param-value>
  </context-param>
+
+Go to the app:
+
+https://app.whatever/path?usernameFilterForTestingUsername=something&usernameFilterForTestingPassword=******* 
+ 
